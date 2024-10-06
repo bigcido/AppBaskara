@@ -1,0 +1,10 @@
+<resources>
+    <string name="BaskaraApp">BhaskaraApp</string>
+    <string name="NumValorA">ValorA</string>
+    <string name="NumValorB">ValorB</string>
+    <string name="NumValorC">ValorC</string>
+    <string name="Delta">Delta</string>
+    <string name="Raizes">Raizes</string>
+    <string name="txtRes">txtRes</string>
+    <string name="button">button</string>
+</resources>
